@@ -1,0 +1,104 @@
+﻿@using Westwind.Globalization
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport" />
+    <title>VAMS</title>
+    <link rel="shortcut icon" href="~/images/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="~/Content/css/font-awesome.min.css" rel="stylesheet" />
+    @Styles.Render("~/Content/DataTable")
+    @Styles.Render("~/Content/Bootstrap")
+    @Styles.Render("~/Content/MultiSelect")
+    @Scripts.Render("~/bundles/JQuery")
+    <script src="~/Scripts/js/wow.min.js"></script>
+    <script type="text/html">
+        function onrefreshclick()
+        {
+        location.reload();
+        }
+    </script>
+    <style type="text/css">
+        .Capatilize {
+            text-transform: capitalize !important;
+        }
+        .bootstrap-select .dropdown-menu > li > a small.muted {
+            display: none;
+        }
+
+        .bootstrap-select .dropdown-toggle .filter-option {
+            position: relative;
+            padding-left: 38px;
+        }
+
+            .bootstrap-select .dropdown-toggle .filter-option:before {
+                content: "Size:";
+                font-size: 14px;
+                font-weight: 700;
+                position: absolute;
+                left: 0;
+                top: 0;
+            }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="load"></div>
+        <header class="header-section wow">
+            <div class="container-fluid">
+                <div class="col-md-1 col-sm-1 col-lg-1">
+                    <a href="~/Account/Dashboard" class="logo"><img src="~/Images/i2isoftwareslogo.png" style="width:110px;height:30px"></a>
+                </div>
+                <div class="col-md-6 col-sm-6 col-lg-6">
+                    <ul class="menu">
+                        <div id="LstMenu">
+                        </div>
+                    </ul>
+                </div>
+                <div class="col-md-2 col-sm-2 col-lg-2">
+                    <select name="ddlCompany" class="form-control" style="width: 240px;height:34px" id="ddlCompany" onchange="LoadLocationDropdown()"></select>
+                </div>
+                <div class="col-md-2 col-sm-2 col-lg-2">
+                    <select name="ddlLocation" id="ddlLocation" class="form-control" style="width: 240px;height:34px;margin-left:40px" onchange="LocationChange()"></select>
+                </div>
+                <div class="col-md-1 col-sm-1 col-lg-1">
+                    <a id="lnklogout" href="/Account/logout"><i class="fa fa-sign-out" style="font-size:25px;color:grey;margin-left:80px"></i></a>
+                </div>
+            </div>
+        </header>
+        <div id="content">
+            @*<select class="form-control selectpicker" id="select-country" data-live-search="true">
+                    <option data-tokens="china">China</option>
+                    <option data-tokens="malayasia">Malayasia</option>
+                    <option data-tokens="singapore">Singapore</option>
+                </select>*@
+            @RenderBody()
+        </div>
+        @Scripts.Render("~/bundles/TemplateJs")
+        @Scripts.Render("~/bundles/BootStrapJs")
+        <script src="~/Scripts/NotificationMessage/Notification.js"></script>
+        <script src="~/Scripts/Menu/Menu.js"></script>
+        @Scripts.Render("~/bundles/CommonJs")
+        @Scripts.Render("~/bundles/DataTable")
+        @Scripts.Render("~/bundles/BootBox")
+        @Scripts.Render("~/bundles/MultiSelect")
+    </form>
+</body>
+</html>
+
+<script type="text/javascript">
+    var baseUrl = '@Url.Content("~")';
+    var SaveMsgLang = ' ' + '@DbRes.T("SaveMsg", "Common", @VAMS.Common.SessionHelper.Current.Lang)';
+    var NotSaveMsgLang = '  ' + '@DbRes.T("NotSaveMsg", "Common", @VAMS.Common.SessionHelper.Current.Lang)';
+    var UpdateMsgLang = '  '+'@DbRes.T("UpdateMsg", "Common", @VAMS.Common.SessionHelper.Current.Lang)';
+    var DeleteMsgLang = '  ' + '@DbRes.T("DeleteMsg", "Common", @VAMS.Common.SessionHelper.Current.Lang)';
+    var DeleteConfirmMsgLang = '  ' + '@DbRes.T("DeleteConfirmMsg", "Common", @VAMS.Common.SessionHelper.Current.Lang)';
+    var AlreadyExistMsgLang = '  ' + '@DbRes.T("AlreadyExistMsg", "Common", @VAMS.Common.SessionHelper.Current.Lang)';
+    var AlreadyUsedMsgLang = '  ' + '@DbRes.T("AlreadyUsedMsg", "Common", @VAMS.Common.SessionHelper.Current.Lang)';
+    var Confirm = '@DbRes.T("Confirm", "Common", @VAMS.Common.SessionHelper.Current.Lang)';
+    var Cancel = '@DbRes.T("Cancel", "Common", @VAMS.Common.SessionHelper.Current.Lang)';
+    var EmailNotValidLang = '@DbRes.T("NotValid", "Email", @VAMS.Common.SessionHelper.Current.Lang)';
+    var Content = '';
+    var Header = '';
+</script>

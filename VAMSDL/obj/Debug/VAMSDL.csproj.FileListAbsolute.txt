@@ -1,0 +1,48 @@
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\VAMSDL.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\VAMSDL.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\VAMSPL.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\VAMSPL.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\obj\Debug\VAMSDL.csprojAssemblyReference.cache
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\obj\Debug\VAMSDL.csproj.CoreCompileInputs.cache
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\obj\Debug\VAMSDL.csproj.CopyComplete
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\obj\Debug\VAMSDL.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSDL\obj\Debug\VAMSDL.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\VAMSDL.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\VAMSDL.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\VAMSPL.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\VAMSPL.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\obj\Debug\VAMSDL.csprojAssemblyReference.cache
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\obj\Debug\VAMSDL.csproj.CoreCompileInputs.cache
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\obj\Debug\VAMSDL.csproj.CopyComplete
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\obj\Debug\VAMSDL.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSDL\obj\Debug\VAMSDL.pdb

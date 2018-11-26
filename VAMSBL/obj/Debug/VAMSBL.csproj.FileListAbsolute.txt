@@ -1,0 +1,44 @@
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\VAMSBL.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\VAMSBL.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\VAMSDL.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\VAMSPL.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\VAMSDL.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\VAMSPL.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\obj\Debug\VAMSBL.csprojAssemblyReference.cache
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\obj\Debug\VAMSBL.csproj.CoreCompileInputs.cache
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\obj\Debug\VAMSBL.csproj.CopyComplete
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\obj\Debug\VAMSBL.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSBL\obj\Debug\VAMSBL.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\VAMSBL.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\VAMSBL.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\VAMSDL.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\VAMSPL.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\VAMSDL.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\VAMSPL.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.Unity.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\obj\Debug\VAMSBL.csprojAssemblyReference.cache
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\obj\Debug\VAMSBL.csproj.CoreCompileInputs.cache
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\obj\Debug\VAMSBL.csproj.CopyComplete
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\obj\Debug\VAMSBL.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSBL\obj\Debug\VAMSBL.pdb

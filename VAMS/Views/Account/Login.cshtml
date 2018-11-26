@@ -1,0 +1,213 @@
+﻿
+@{
+    Layout = null;
+}
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport" />
+    <title>Sign In</title>
+    <link href="~/Content/css/style.css" rel="stylesheet" />
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/js/jquery.min.js"></script>
+    <script src="~/Scripts/js/wow.min.js"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-show-password/1.0.3/bootstrap-show-password.min.js"></script>
+    <script>
+        function eyeclicked() {
+            debugger;
+            $('.fa fa-eye').toggleClass("fa-eye-slash");
+            debugger;
+            var input = $('#txtPassword');
+            if (input.attr("type") == "password" ) {
+                input.attr("type", "text");
+            } else {
+                input.attr("type", "password");
+            }
+        }
+
+        //$("#password").password('toggle');
+
+
+    </script>
+
+    <style>
+        .field-icon {
+            /*float: right;*/
+            margin-left: 345px;
+            margin-top: -29px;
+            position: relative;
+            z-index: 2;
+            background-color: lightgrey;
+        }
+
+        .formgroupiconspasswrd input {
+            width: 100%;
+            display: inline-block;
+            border: 1px solid #CACACA;
+            padding: 12px;
+            font-size: 16px;
+            /*padding-left: 60px;*/
+            outline: inherit;
+            border-radius: 7px;
+            color: #666;
+            height: 45px;
+            /*margin-top: 20px;
+            margin-bottom: 20px;*/
+        }
+
+        .formgroupiconspasswrd i {
+            position: absolute;
+            top: 298px;
+            left: 782px;
+            height: 4%;
+            border-left: 1px solid #cacaca;
+            line-height: 45px;
+            padding-right: 23px;
+            padding-left: 12px;
+            font-size: 17px;
+            color: #A9A9A9;
+        }
+
+
+        .formgroupiconstxt i {
+            position: absolute;
+            top: 233px;
+            left: 782px;
+            height: 7.5%;
+            border-left: 1px solid #cacaca;
+            line-height: 45px;
+            padding-right: 23px;
+            padding-left: 12px;
+            font-size: 17px;
+            color: #A9A9A9;
+        }
+
+        .formgroupiconstxt input {
+            width: 100%;
+            display: inline-block;
+            border: 1px solid #CACACA;
+            padding: 12px;
+            font-size: 16px;
+            /*padding-left: 60px;*/
+            outline: inherit;
+            border-radius: 7px;
+            color: #666;
+            height: 45px;
+            
+        }
+
+        .form-group.icons i {
+            position: absolute !important;
+            top: 0px !important;
+            left: 338px !important;
+            height: 97% !important;
+            border-right: 0px solid #cacaca !important;
+            line-height: 45px !important;
+            padding-right: 15px !important;
+            padding-left: 12px !important;
+            font-size: 17px !important;
+            color: #A9A9A9 !important;
+        }
+
+
+        .form-group.icons input {
+            width: 100% !important;
+            display: inline-block !important;
+            border: 1px solid #CACACA !important;
+            padding: 12px !important;
+            font-size: 16px !important;
+            /*padding-left: 60px;*/
+            outline: inherit !important;
+            border-radius: 7px !important;
+            color: #666 !important;
+            height: 45px !important;
+        }
+
+
+    </style>
+
+</head>
+<body class="white">
+    <div class="row" style="padding-top:20px!important;padding-right:20px!important" id="dvSignup">
+        <div class="col-md-4"></div>
+        <div class="col-md-4"></div>
+    </div>
+
+    <div class="table-div" id="dvLogin">
+        <div class="table-cells">
+            <div class="login-container">
+                <div class="col-md-12 alert alert-big alert-danger alert-dismissable fade in margin-top-10"
+                     id="divErrormsg" style="display:none!important;">
+                    <div id="lblError"></div>
+                </div>
+
+                <div class="col-md-12 alert alert-big alert-success alert-dismissable fade in margin-top-10"
+                     id="divSuccessmsg" style="display:none!important;">
+                    <div id="lblSuccess"></div>
+                </div>
+                <form>
+                    <div id="dvlogin">
+                        <div class="row">
+                            @*<div class="logo-login">
+                                <img src="~/Images/i2isoftwareslogo.png" />
+                            </div>*@
+                        </div>
+                        <div class="row">
+                            <div class="form-group icons">
+                                <div class="formgroupiconstxt">
+                                    <input type="text" id="txtUserName" placeholder="Email" />
+                                    <i class="fa fa-user"></i>
+                                </div>
+                                </div>
+                                @*<div class="form-group">
+                <input type="text" name="username" placeholder="Email" id="txtUserName" class="form-control">
+            </div>*@
+
+
+                                @*<div class="form-group">
+                <input type="password" id="txtPassword" name="password" placeholder="Password" class="form-control" data-toggle="password">
+            </div>*@
+                                <div class="form-group icons">
+                                    <div class="formgroupiconspasswrd">
+                                        <input type="password" id="txtPassword" placeholder="Password" />
+                                        @*<i class="fa fa-eye"></i>*@
+                                        <span toggle="#password-field" id="eyeid" class="toggle-password" @*data-toggle="password"*@ @*onclick="eyeclicked()"*@></span>
+                                        <i class="fa fa-eye" onclick="eyeclicked()"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    <div class="row">
+                        <div class="log-submit">
+                            @*<a onclick=" onforgotpwd();" id="ahfor" href="#" class="for-got">Forgot password?</a>
+                <a onclick=" onloginclck();" id="ahlogin" href="#" class="for-got">Go to Login</a>*@
+                            <input type="button" id="btnLogin" style="margin-right:275px" value="Login" class="btn btn-submit" onclick="validate()" />
+                        </div>
+                    </div>
+                    <script src="~/Scripts/js/plugins.js"></script>
+                    <script src="~/Scripts/js/custom.js"></script>
+                    <script src="~/Scripts/js/jquery.smoothState.min.js"></script>
+                    <script src="~/Scripts/js/datetimepicker.min.js"></script>
+                    <script src="~/Scripts/js/bootstrap.min.js"></script>
+                    <script src="~/Scripts/js/scrollbar.js"></script>
+                    <script src="~/Scripts/js/select2.js"></script>
+                    <link href="~/Content/css/bootstrap.min.css" rel="stylesheet" />
+                    <script src="~/Scripts/Account/Login.js"></script>
+                    <script src="~/Scripts/NotificationMessage/Notification.js"></script>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+<script type="text/javascript">
+    var baseUrl = '@Url.Content("~")';
+</script>

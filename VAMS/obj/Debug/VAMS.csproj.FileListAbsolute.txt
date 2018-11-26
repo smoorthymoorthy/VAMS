@@ -1,0 +1,255 @@
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\ApplicationInsights.config
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\VAMS.dll.config
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\VAMS.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\VAMS.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\csc.exe
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\csc.exe.config
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\csc.rsp
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\csi.exe
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\csi.exe.config
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\csi.rsp
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.AppContext.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Collections.Immutable.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Console.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Diagnostics.Process.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.IO.Compression.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.IO.FileSystem.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.IO.Pipes.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Reflection.Metadata.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Security.AccessControl.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Security.Claims.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Threading.Thread.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.ValueTuple.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Xml.XPath.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\vbc.exe
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\vbc.exe.config
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\vbc.rsp
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\VBCSCompiler.exe
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\roslyn\VBCSCompiler.exe.config
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Antlr3.Runtime.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.AI.DependencyCollector.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.AI.Web.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.AI.WindowsServer.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.ApplicationInsights.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.Unity.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.Unity.Interception.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Web.Infrastructure.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Newtonsoft.Json.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Net.Http.Formatting.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.Helpers.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.Http.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.Http.WebHost.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.Mvc.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.Optimization.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.Razor.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.WebPages.Deployment.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.WebPages.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.WebPages.Razor.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\VAMSBL.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\VAMSPL.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\WebGrease.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\VAMSDL.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\VAMSBL.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\VAMSPL.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.ServiceLocation.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.Unity.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.Unity.Interception.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Newtonsoft.Json.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Net.Http.Formatting.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.Helpers.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.Http.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.Http.WebHost.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.Mvc.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.Optimization.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.Razor.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.WebPages.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.WebPages.Deployment.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Web.WebPages.Razor.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Antlr3.Runtime.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.AI.DependencyCollector.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.AI.WindowsServer.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.AI.Web.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\bin\VAMSDL.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\obj\Debug\VAMS.csprojAssemblyReference.cache
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\obj\Debug\VAMS.csproj.CoreCompileInputs.cache
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\obj\Debug\VAMS.csproj.CopyComplete
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\obj\Debug\VAMS.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMS\obj\Debug\VAMS.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\ApplicationInsights.config
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\VAMS.dll.config
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\VAMS.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\VAMS.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\de\VAMS.resources.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\csc.exe
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\csc.exe.config
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\csc.rsp
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\csi.exe
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\csi.exe.config
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\csi.rsp
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.AppContext.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Collections.Immutable.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Console.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Diagnostics.Process.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.IO.Compression.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.IO.FileSystem.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.IO.Pipes.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Security.AccessControl.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Security.Claims.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Security.Principal.Windows.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Threading.Thread.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.ValueTuple.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Xml.XPath.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\vbc.exe
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\vbc.exe.config
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\vbc.rsp
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\VBCSCompiler.exe
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\roslyn\VBCSCompiler.exe.config
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Antlr3.Runtime.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\CommonMark.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.AI.DependencyCollector.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.AI.Web.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.AI.WindowsServer.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.ApplicationInsights.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.ServiceLocation.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.Unity.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.Unity.Interception.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Web.Infrastructure.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Newtonsoft.Json.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Diagnostics.DiagnosticSource.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Net.Http.Formatting.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.Helpers.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.Http.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.Http.WebHost.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.Mvc.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.Optimization.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.Razor.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.WebPages.Deployment.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.WebPages.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.WebPages.Razor.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\VAMSBL.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\VAMSPL.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\WebGrease.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Westwind.Globalization.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Westwind.Globalization.Web.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Westwind.Utilities.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Westwind.Web.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\VAMSDL.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\VAMSBL.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\VAMSPL.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\CommonMark.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\CommonMark.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.ServiceLocation.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.Unity.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.Unity.Interception.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Newtonsoft.Json.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Net.Http.Formatting.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.Helpers.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.Http.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.Http.WebHost.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.Mvc.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.Optimization.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.Razor.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.WebPages.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.WebPages.Deployment.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Web.WebPages.Razor.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Antlr3.Runtime.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Westwind.Globalization.Web.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Westwind.Utilities.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Westwind.Web.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\System.Diagnostics.DiagnosticSource.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.AI.DependencyCollector.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.AI.WindowsServer.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.AI.Web.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\bin\VAMSDL.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\obj\Debug\VAMS.csprojAssemblyReference.cache
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\obj\Debug\VAMS.Properties.LocalizationForm.resources
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\obj\Debug\VAMS.Properties.LocalizationForm.de.resources
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\obj\Debug\VAMS.csproj.GenerateResource.cache
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\obj\Debug\VAMS.csproj.CoreCompileInputs.cache
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\obj\Debug\de\VAMS.resources.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\obj\Debug\VAMS.csproj.CopyComplete
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\obj\Debug\VAMS.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMS\obj\Debug\VAMS.pdb

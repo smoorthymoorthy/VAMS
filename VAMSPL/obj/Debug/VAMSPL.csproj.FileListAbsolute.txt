@@ -1,0 +1,11 @@
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSPL\bin\Debug\VAMSPL.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSPL\bin\Debug\VAMSPL.pdb
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSPL\obj\Debug\VAMSPL.csprojAssemblyReference.cache
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSPL\obj\Debug\VAMSPL.csproj.CoreCompileInputs.cache
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSPL\obj\Debug\VAMSPL.dll
+E:\Krishna Priya\Web Application\I2I projects\VAMS\VAMS\VAMSPL\obj\Debug\VAMSPL.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSPL\bin\Debug\VAMSPL.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSPL\bin\Debug\VAMSPL.pdb
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSPL\obj\Debug\VAMSPL.csproj.CoreCompileInputs.cache
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSPL\obj\Debug\VAMSPL.dll
+D:\VAMS_MVC_Project_FULL\VAMS_20_11_18\VAMS\VAMSPL\obj\Debug\VAMSPL.pdb
